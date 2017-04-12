@@ -1,7 +1,7 @@
 # CodeJam 2017
 
 -------------
-##[Round 1](https://code.google.com/codejam/contest/3264486/dashboard#s=a)
+## [Round 1](https://code.google.com/codejam/contest/3264486/dashboard#s=a)
 
 ### Problem A
 
