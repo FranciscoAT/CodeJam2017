@@ -21,6 +21,6 @@ all values in `N` are increasing. Then return `N`.
 Problem C was a tricky one. The first small solution was to actually implement an array and work with a physical array. However \s
 when I get to Small-in 2 I realized that this solution took way too long. So had to work on the program. I came very close and it turns \s out my solution was off by a faulty calculation. In such a way some solutions like `13 6` would return `1 1` instead of proper `1 0`.
 
-###Round 1 Conclusion
+### Round 1 Conclusion
 
 All told I scored Perfectly on A and B. And on C small 1, earning 40 points. Very excited for the next round!
