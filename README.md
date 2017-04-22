@@ -26,7 +26,7 @@ when I get to Small-in 2 I realized that this solution took way too long. So had
 All told I scored Perfectly on A and B. And on C small 1, earning 40 points. Very excited for the next round!
 
 ------------
-## [Round 1B](https://code.google.com/codejam/contest/5304486/dashboard#s=p1)
+## [Round 1A](https://code.google.com/codejam/contest/5304486/dashboard#s=p1) <a name="round1a"></a>
 
 ### Problem A
 
@@ -42,7 +42,26 @@ all the packages. Then find the closest multiplier `N` compared to the grams req
 and test if it is within `0.9*N*Default` to `1.1*N*Default`. Then split those packages into their multiplier. Iterate through the packages \s
 of each type and get the min of all of value N for all N. Then add up all those values and return the number of recipes.
 
-### Round 1B Conclusion
+### Round 1A Conclusion
 
 A little more difficult questions compared to the ones I had practiced previously. However enjoyable none the less and excited for \s
 being able to qualify in Round 1B.
+
+-----------
+## [Round 1B](#)
+
+### Problem A
+
+This was a straight forward problem. Essentially had to calculate each horses total number of hours to reach the destination. Then take \s
+the number of hours it took that horse to reach the end and divide it into the total distance. This gave the constant speed for the \s
+first horse to reach the end without slowing down.
+
+### Problem B
+
+This problem was a little more difficult. Post event I got the small input correct however did not get the large input correct. The solutions \s
+was essentially a series of logic to figure out which pony should go where.
+
+### Round 1B Conclusion
+
+A little more easy than [Round 1A](#round1a), however still spent a little too long figuring out the logic on Problem B. Leaving me with not enough time \s
+to complete Problem C. Nevertheless enjoyable, I feel my Python skills ever improving and learning about some interesting libraries to help me along.
